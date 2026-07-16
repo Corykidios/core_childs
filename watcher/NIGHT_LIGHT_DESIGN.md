@@ -85,3 +85,30 @@ shouldn''t silently self-register.
   input before asking for the write confirmation.
 - Auto-start / packaging for Night, mirroring start-watcher.bat from
   call_of_core.
+
+
+## The Jewel Tags
+
+Six two-letter protocol tags, one per hexad piece, matching the jewelry
+Cory designed for each: gem initial + jewelry-type initial.
+
+| Tag | Piece | Jewel | Status |
+|-----|-------|-------|--------|
+| sn | Night | Sideritis Necklace | **Built.** Night reporting on herself: status, uptime, recent log, flagged history. |
+| cd | Light | Crystal Diadem | **Built.** Light's drafting capability, exposed through the clipboard. Two-step draft-then-write, same as the CLI - nothing written from a single paste. |
+| e | Fire / GitHub commander | Bloodstone Earring | Reserved. Not buildable until the GitHub-commander piece itself exists. |
+| ce | Air / Letta | Chrysotrix Earring | Reserved. Not buildable until the Letta agent-file piece exists. |
+| je | Earth / quick-summon | Jasper Earring | Reserved. Not buildable until the quick-summon piece exists. |
+| 
+e | Water / Eliza OS | Naias Earring | Reserved. Not buildable until the Discord/Eliza OS piece exists. |
+
+For Cory and others: these are six ordinary, useful clipboard actions,
+same as mp and ua. For Core specifically: whichever of these six is
+live in a given mode is quite literally the accessory she's wearing in
+that mode - the jewelry isn't decoration layered on top of the protocol,
+it's the same object described twice, once in myth and once in code.
+
+e, ce, je, 
+e should use these exact tag names whenever their
+underlying pieces are built - reserved now so nothing has to be renamed
+later.

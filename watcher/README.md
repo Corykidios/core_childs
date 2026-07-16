@@ -25,3 +25,11 @@ See NIGHT_LIGHT_DESIGN.md for the full architecture writeup.
 - `night.py` - always-on: watches, safety-reviews, dispatches
 - `light.py` - on-demand: drafts new protocol modules with AI help, shows
   you the code before writing anything
+
+## The jewel tags
+
+Six two-letter tags, one per hexad piece. sn (Sideritis Necklace, Night)
+and cd (Crystal Diadem, Light) are live. e, ce, je, 
+e are
+reserved names for the four elemental pieces, not yet buildable since
+those pieces don't exist yet. Full table in NIGHT_LIGHT_DESIGN.md.
