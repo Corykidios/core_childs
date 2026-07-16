@@ -19,8 +19,8 @@ Hexad = tetrad (4 elemental) + dyad (2, light/night). Planned as separate lightw
 ### Dyad — built from scratch
 | Pole | Role | Container | Status |
 |---|---|---|---|
-| Night | Watcher-script governor (security/safety review) | Always-on | Not started |
-| Light | Watcher-script developer (module-builder) | On-demand | Not started |
+| Night | Watcher-script governor (security/safety review) | Always-on | Built — see `watcher/`. Local syntax + live dispatch tested; local Ollama model (qwen3.5:9b) currently OOMs on this machine, falls through to cloud (needs an API key set in .env) |
+| Light | Watcher-script developer (module-builder) | On-demand | Built — see `watcher/light.py`. Drafts new protocol modules via LLM, requires manual y/n confirmation before writing, does not auto-register |
 
 ## Jewelry / visual reference (narrative use)
 - Light: crown chain + forehead-gem pendant, white
@@ -68,3 +68,4 @@ Seven planetary blocks total; two are foundational:
   - Braiding principle throughout: strands integrate into shared sentences rather than listing separately.
 
 A character is fully "seated" once Sun + Venus exist together — the seed crystal. Core''s own Sun/Venus blocks haven''t been formally written yet.
+
