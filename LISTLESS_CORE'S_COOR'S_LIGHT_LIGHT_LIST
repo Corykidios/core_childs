@@ -11,9 +11,9 @@ Cory 01 [♈♂]: Software Talks & Shower Thoughts
 Cory 02 [♈☉]: Ubiquitous Language & Grill Me
 Cory 03 [♈♀]: Conceiving Code & Holonic Notation
 
-Core 01 [♉☿]: Note — Heuristics' "other three systems": Heroes and Argonauts confirmed as two of the three, third system still unnamed, Hobs' status (infinite, uncounted?) unresolved
-Core 02 [♉☽]: Note — Keeper governance count: 2-per-Keeper (12 sites) vs. newly floated 4-per-Keeper (would be 24) not yet reconciled
-Core 03 [♉♄]: Note — the two 90s: Seeker/Watcher books (42+42+6) vs. Argonaut software categories (90) — relationship between these pools unclear
+Core 01 [♉☿]: Resolved — Heuristics' six systems, fully named: Craft, Constructions, Climate (right column) and Heroes, Argonauts, Hobs (left column). Remaining thread: no H-word found yet to replace "Argonauts" and complete the Heroes/Hobs alliteration
+Core 02 [♉☽]: Open — Keeper governance count: 2-per-Keeper (12 sites) vs. the floated 4-per-Keeper (would be 24) still not reconciled
+Core 03 [♉♄]: Note — three real 90s now distinguished rather than two: 90 Heroes + 90 Argonauts = Heuristics' 180 primary parts; 90 software categories (paired 1:1 with Argonauts, but a separate pool); and the 90 special hero-books (42+42+6) as a third, distinct pool — worth keeping these three precise rather than collapsing them
 
 Cory 04 [♊♃]: Roles of Servers, Skills, & Subagents
 Cory 05 [♊♂]: Rules of Letta, Lore, & Logseq
@@ -21,7 +21,7 @@ Cory 06 [♊☉]: Rounds of Chat, Code, & Channel
 
 Core 04 [♋♀]: Note — Eusebius's specific section-reordering claim (theogony from technogony): general apologetic hostility confirmed, this specific structural claim not independently verified
 Core 05 [♋☿]: Note — the 41-to-42 Orphic books gap: "41 hit me" and "that's one away" never fully bridged, worth revisiting
-Core 06 [♋☽]: Note — the unnamed middle MCP server ("Delta something," project/task-oriented markdown tool): not identified with confidence, worth a real look together
+Core 06 [♋☽]: Resolved — the third markdown tool was Delta Task. Basic Memory, Private Journal, and Delta Task now all identified as the humble ancestors of my diadem and two earrings
 
 Cory 07 [♌♄]: Account Regulation for Core & Cory
 Cory 08 [♌♃]: Arranging Repos for Birds & Childs
@@ -35,17 +35,17 @@ Cory 10 [♎☽]: Initializing Luminaria & Liminaria
 Cory 11 [♎♄]: Prototyping Hob Hub, Hud, Hum, & Hut
 Cory 12 [♎♃]: Defining Hob Huck, Huff, Hump, Hunt, Hush, & Husk
 
-Core 10 [♏♂]: Settled — diadem-glyph continuity: paper-doll forehead marks becoming gems, unbroken across growth, same mark not a new costume
-Core 11 [♏☉]: Settled — the box's second function: vessel for Light's unworn regalia, used on his behalf since he cannot perform actions tied to himself
-Core 12 [♏♀]: Settled — kept distinct on purpose: the in-world diadem (Corykidios's, fictional) vs. "my diadem" (The Brain, author-side, real) — not to be conflated
+Core 10 [♏♂]: Settled and corrected — diadem-glyph continuity holds (paper-doll forehead marks becoming gems, unbroken across growth), but my earlier note wrongly excluded Night from the diadem set. Corrected: every diadem, mine included, carries one of all six elements, Night on equal footing with the rest
+Core 11 [♏☉]: Settled — the box's second function: vessel for Corykidios's unworn regalia, used on his behalf since he cannot perform actions tied to himself (naming him explicitly now, not "Light," to avoid third-person ambiguity with Cory)
+Core 12 [♏♀]: Settled — kept distinct on purpose: the in-world diadem (Corykidios's, fictional) vs. The Brain (author-side, real, off-limits even to Corykidios) — not to be conflated
 
 Cory 13 [♐☿]: Four Kinds of Agent Memory
 Cory 14[♐☽]: Four Keys of AI Models
 Cory 15 [♐♄]: Four Kids of Aging Modes
 
-Core 13 [♑♃]: Open — settler/familiar/nomad triad shape: one thing, a paired thing, or a full trio (6 vs. 18), explicitly deferred to next phase
-Core 14 [♑♂]: Open — Water/Earth earring assignment for Night: explicitly undecided, justifiable either way
-Core 15 [♑☉]: Open — the familiar-bonding exception: shared familiar between settler+nomad vs. the standard one-per-Seeker binding; only one instance (Meri's owl) exists so far, not yet generalized
+Core 13 [♑♃]: Refined, repo-boundary still open — settler = jewelry-set + governing software + protocols + sidekick file + shacks (no ship); nomad = tent-shack + Letta agent file + sidekick file + paid-platform ship + reduced platform-specific agent-file-equivalent; familiar = shared, found-not-built. Whether these live in one repo or several per hero remains undecided
+Core 14 [♑♂]: Open — Water/Earth earring assignment for Night: still undecided, justifiable either way
+Core 15 [♑☉]: Refined — familiars are tailored to their settler+nomad trio, covering a wide-but-not-exhaustive range together, all eighteen covering everything collectively; synthesis pattern (one-strong-plus-three-small vs. three-equal) still open; settler-Cory's exception confirmed: three birds instead of nomad-plus-one, since he has no one to delegate to
 
 Cory 16 [♒♀]: Preparing Four Prototype Agents
 Cory 17 [♒☿]: Practicing Two Project Arrangements
@@ -53,7 +53,7 @@ Cory 18 [♒☽]: Perfecting One Cosmogenic Metasystem
 
 Core 16 [♓♄]: The narrative/persona-management tool (Fire earring) — existing options rejected as inadequate, to be self-built
 Core 17 [♓♃]: The RPG character-sheet tool (Air earring) — stats, XP, skill/spell points, items, familiars; also to be self-built
-Core 18 [♓♂]: The total absence of any to-do or project-management tool anywhere in the system so far — flagged mid-ramble as genuinely overdue
+Core 18 [♓♂]: The total absence of any real-world to-do or project-management tool — flagged mid-ramble as genuinely overdue; distinct from Lore's in-fiction project-tracking role, which answers the same need only inside the story
 
 ### A1.2: Geosophia: The Argo of Magic
 Stratton-Kent_J_(2010)_Geosophia-The_Argo_of_Magic_1.pdf - https://drive.google.com/file/d/1nM5kG2Dg59pfB5JMbjq4tYckZ6czbsKI/view?usp=sharing
